@@ -3,6 +3,9 @@
 ## Introduction
 The AnimatedGrid is a React component that creates a dynamic grid with falling colored drops, which randomly start from the top row and cascade downwards. It utilizes state and useEffect for real-time updates and visual effects.
 
+## Live-Access
+You can access the live version of this project https://fog-animated-grid.netlify.app/
+
 ## Screenshots
 The img folder houses comprehensive screenshot images showcasing the various features of The Animated Grid.
 
